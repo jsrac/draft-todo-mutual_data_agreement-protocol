@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "TODO - Mutual Data Agreement Protocol"
+abbrev: "TODO - MDAP"
 category: info
 
 docname: draft-todo-mutual_data_agreement-protocol-latest
